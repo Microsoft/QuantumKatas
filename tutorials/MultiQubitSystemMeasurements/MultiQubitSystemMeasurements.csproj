@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.Quantum.Sdk/0.15.2102129448">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <RootNamespace>Quantum.Kata.MultiQubitSystemMeasurements</RootNamespace>
+    <IQSharpLoadAutomatically>true</IQSharpLoadAutomatically>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Quantum.Katas" Version="0.15.2102129448" />
+    <PackageReference Include="Microsoft.Quantum.Xunit" Version="0.15.2102129448" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0" />
+    <PackageReference Include="xunit" Version="2.3.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
+    <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+  </ItemGroup>
+
+</Project>
+
