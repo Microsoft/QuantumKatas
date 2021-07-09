@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.Quantum.Sdk/0.18.2106148911">
+﻿<Project Sdk="Microsoft.Quantum.Sdk/0.18.210729065-pull">
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <PlatformTarget>x64</PlatformTarget>

@@ -53,7 +53,7 @@ $dockerPath = Join-Path $katasRoot "Dockerfile"
     } | Set-Content -Path $dockerPath
 
 
-$ps1String = "Microsoft.Quantum.IQSharp --version $versionRegex"
+$ps1String = "Microsoft.Quantum.IQSharp --version 0.18.210729065-pull
 $ps1Path = Join-Path $katasRoot "scripts\install-iqsharp.ps1"
 (Get-Content -Path $ps1Path) | ForEach-Object {
          $isQuantumPackage = $_ -match $ps1String
