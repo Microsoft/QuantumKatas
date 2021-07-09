@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.Quantum.Sdk/0.18.2106148911">
+﻿<Project Sdk="Microsoft.Quantum.Sdk/0.18.2107151284-beta">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Quantum.MachineLearning" Version="0.18.2106148911" />
+    <PackageReference Include="Microsoft.Quantum.MachineLearning" Version="0.18.2107151284-beta" />
     <PackageReference Include="System.Text.Json" Version="4.7.2" />
   </ItemGroup>
 </Project>
