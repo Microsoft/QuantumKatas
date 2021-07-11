@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundedKnapsack", "BoundedKnapsack.csproj", "{A924553C-0AF5-4802-8A3A-E5E074DC34AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A924553C-0AF5-4802-8A3A-E5E074DC34AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A924553C-0AF5-4802-8A3A-E5E074DC34AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A924553C-0AF5-4802-8A3A-E5E074DC34AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A924553C-0AF5-4802-8A3A-E5E074DC34AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD43C51-6BFB-465B-808F-52F685E3257E}
+	EndGlobalSection
+EndGlobal
